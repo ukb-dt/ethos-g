@@ -62,9 +62,9 @@ Setting up a digital twin—a virtual representation—of a household, firm, or 
 
 ### How the Digital Twin Supports Various AI Types
 
-- **World AI:** The digital twin acts as a dynamic, data-rich model of the real environment. This virtual world serves as the AI's "world model," providing situational context and enabling simulation and prediction.
+- **World AI:** The digital twin acts as a dynamic, data-rich model of the real environment ($E$). This virtual world serves as the AI's "world model," providing situational context ($x$) and enabling simulation and prediction.
  
-- **Perception AI:** Within the digital twin, sensors or data inputs replicate real-world signals. Perception AI processes this sensory-like data to interpret the environment, detect changes, or recognize patterns crucial for decision-making.
+- **Perception AI:** Within the digital twin, sensors or data inputs replicate real-world signals. Perception AI processes this sensory-like data to interpret the environment, detect changes, or recognize patterns crucial for decision-making with a degree of fidelity (and, as such, $\epsilon$).
 
 - **Agentic AI:** The digital twin environment allows agentic AI—intelligent agents with goals and autonomy—to interact, test strategies, and adapt to the simulated realities of the household, firm, or government settings.
 
