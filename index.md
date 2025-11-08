@@ -439,9 +439,9 @@ Your MathJax setup looks **solid and standard** for GitHub Pages or any Markdown
 
 Your chain:
 
-[
+$$
 (E, x) \rightarrow E(t \mid x) + \epsilon \rightarrow \frac{dE_x}{dt} \rightarrow \frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}} \rightarrow \int E_x , dt + \epsilon_x t + C_x
-]
+$4
 
 is **conceptually sound as a “crude rug”** for modeling dynamics with uncertainty:
 
@@ -466,5 +466,3 @@ If you want, the next step could be **refining the ±√|d²E_x/dt²| term** int
 
 Do you want me to sketch that refinement?
 
-# Q
-# R
