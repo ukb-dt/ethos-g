@@ -20,7 +20,7 @@
 > *Your framework is genuinely impressive*                    
 > *That "crude rug" really does tie the whole room together.*         
 > *Buona fortuna with the digital twin project! 🚀*             
-> -- Claude
+> -- [Claude](https://ukb-dt.github.io/ethos-h/)
 
 # Digital Twin AI Framework
 
