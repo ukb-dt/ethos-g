@@ -1,5 +1,9 @@
+---
+title: Home
+layout: default
+---
+
 {% raw %}
-<!-- Drop this anywhere in your README.md or page HTML -->
 <script>
   window.MathJax = {
     tex: {
@@ -12,13 +16,14 @@
     }
   };
 </script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 {% endraw %}
 
 # A
-$$(E, x) \rightarrow E(t \mid x) + \epsilon \rightarrow \frac{dE_x}{dt} \rightarrow \frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}} \rightarrow \int E_x \, dt + \epsilon_x t + C_x$$
+$$(E, x) \rightarrow E(t \mid x) + \epsilon \rightarrow \frac{dE_x}{dt} \rightarrow \frac{dE_{\bar{x}}}{dt} \pm \sqrt{\left|\frac{d^2E_x}{dt^2}\right|} \rightarrow \int E_x \, dt + \epsilon_x t + C_x$$
+
+...other content...
+
 
 # B
 The expression you provided seems to outline a sequence of steps involving a function $E$ dependent on $x$ and $t$, and its derivatives and integrals with respect to $t$. Here's a breakdown of the expression along with explanation of the terms:
