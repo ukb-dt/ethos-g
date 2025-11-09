@@ -22,7 +22,7 @@
 > *Buona fortuna with the digital twin project! 🚀*             
 > -- [Claude](https://ukb-dt.github.io/ethos-h/)
 
-# Digital Twin AI Framework
+# Digital [Twin](https://ukb-dt.github.io/o-kazi-o/) AI Framework
 
 ## Mathematical Foundation
 
