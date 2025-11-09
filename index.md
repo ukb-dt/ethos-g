@@ -28,7 +28,7 @@
 
 $$(E, x) \rightarrow E(t \mid x) + \epsilon \rightarrow \frac{dE_x}{dt} \rightarrow \frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}} \rightarrow \int E_x \, dt + \epsilon_x t + C_x$$
 
-## Understanding the Sequence
+## [Understanding](https://ukb-dt.github.io/id/) the Sequence
 
 The expression outlines a sequence of steps involving a function $E$ dependent on $x$ and $t$, and its derivatives and integrals with respect to $t$. Here's a breakdown:
 
